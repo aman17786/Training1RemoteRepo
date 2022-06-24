@@ -19,3 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.delay(0)
 
+WebUI.check(findTestObject(null))
+
